@@ -1,4 +1,4 @@
-"# INT3236E_1_Week2" 
+<img width="1406" height="361" alt="image" src="https://github.com/user-attachments/assets/20529381-c2c8-4c30-9bee-72775983f5b2" />"# INT3236E_1_Week2" 
 ### 23020539 DangQuocHuy
 
 ##### - Dashboard:
@@ -20,3 +20,7 @@ click delete:
 for example i will change course instructor to huydzhehe
 <img width="2489" height="1100" alt="image" src="https://github.com/user-attachments/assets/752be673-8988-465c-ba0d-9de5c259422a" />
 <img width="2488" height="1096" alt="image" src="https://github.com/user-attachments/assets/42d14b60-c3d0-4297-b05b-46c736a51a84" />
+
+##### - Use mysql instead of h2:
+<img width="1406" height="361" alt="image" src="https://github.com/user-attachments/assets/cc664f93-a397-40b1-a5cb-844d163b5556" />
+
